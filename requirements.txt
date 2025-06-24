@@ -1,0 +1,4 @@
+openai-whisper
+fastapi[standard]
+python-vlc
+git+https://github.com/dhanushnatra/piper-nex.git

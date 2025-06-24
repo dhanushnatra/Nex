@@ -1,0 +1,10 @@
+env/
+.env
+piper/
+__pycache__/
+playlist
+output.wav
+test.wav
+*.pyc
+*.pyo
+*.pyd
